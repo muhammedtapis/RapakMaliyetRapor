@@ -1,0 +1,6 @@
+@RapakMaliyetRapor_HostAddress = http://localhost:5283
+
+GET {{RapakMaliyetRapor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
